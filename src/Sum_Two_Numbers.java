@@ -11,4 +11,4 @@ public class Sum_Two_Numbers {
 		
 		System.out.printf("The sum of %d and %d is %d.", firstNumber, secondNumber, firstNumber + secondNumber );	
 	}
-}
+} // change 2
