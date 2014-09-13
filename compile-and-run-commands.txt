@@ -1,0 +1,4 @@
+>javac Sum_Two_Numbers.java
+
+>java Sum_Two_Numbers
+
